@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rodstur)](https://solved.ac/rodstur/)
+
 <!--
 **swhana/swhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rodstur)](https://solved.ac/rodstur/)
 
 
 Here are some ideas to get you started:
