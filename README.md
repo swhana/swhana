@@ -1,9 +1,11 @@
 
-
-
+![swhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=swhana&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swhana&layout=compact&theme=react)
 <!--
 **swhana/swhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rodstur)](https://solved.ac/rodstur/)
+
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
