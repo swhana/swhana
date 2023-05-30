@@ -1,11 +1,11 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&text=&animation=fadeIn"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swhana&layout=compact&theme=react)
-<!--
-**swhana/swhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rodstur)](https://solved.ac/rodstur/)
-
-
-
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Skills ✨</p>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -19,6 +19,21 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
 </div>
+
+<br/>
+<br/>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swhana&layout=compact&theme=react"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rodstur"/>
+</div>
+
+<!--
+**swhana/swhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 
 
