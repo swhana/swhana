@@ -26,9 +26,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swhana&layout=compact&theme=react"/>
 </div>
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rodstur"/>
-</div>
 
 <!--
 **swhana/swhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
