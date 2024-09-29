@@ -6,7 +6,7 @@
 > 매일 새로운 기술이 생겨나는 프론트엔드 생태계에서 살아남기 위해선 새로운 기술을 빠르게 배우고 적용하는 능력이 필수라고 생각해 꾸준히 새로운 기술에 대한 탐구와 공부를 하고 있습니다. 또한 작은 프로젝트를 만들어보면서 기술을 체화하고 끊임없이 성장하는 개발자가 되기 위해 노력하고 있습니다.
 
 
-</br>
+
 
 ### 저는 이런 사람입니다
 
@@ -23,7 +23,7 @@
 - Typescript를 통한 Javascript 정적 타입 분석
 - Recoil, Zustand를 사용한 상태관리에 대한 이해
 - 반응형 웹 디자인, 웹 접근성에 대한 고려
-<div class="page-break" style="page-break-before: always;"></div>
+
 ### 이런 것을 해봤어요
 
 ##### [**기술 블로그**](https://www.swhana.site/blog)
@@ -54,7 +54,7 @@ _**2024. 08. ~**_
 - 다크모드 / 라이트모드
 - 글 목록 리스트 그리드형 / 리스트형 분리
 - 반응형 레이아웃 (sm, md) 구현
-<div class="page-break" style="page-break-before: always;"></div>
+
 ##### [Webp Converter Bot / Discord Bot 프로그램](https://github.com/swhana/webpConverter)
 _**2024. 07. ~ 2024. 07**_
 사용자가 업로드한 메시지가 파일 형식인지 확인 후, webp 파일이라면 sharp 라이브러리를 사용해 gif 파일로 변환 후 재업로드합니다. 굉장히 간단한 구조의 프로젝트이기에 실제 개발기간도 하루였지만, 실제로 주변 사람의 불편함을 해소하기 위해 고민을 거치고 성취해냈던 프로젝트였기에 소개하고자 합니다.
@@ -74,7 +74,7 @@ _**2023. 04. ~ 2023. 05.**_
 - Axios의 Interceptor, Instance를 활용한 반복되는 API 요청 코드의 모듈화 과정을 거쳤고, 컴포넌트 단위로 개발을 통해 코드의 생산성을 높였습니다.
 - TypeScript에서 자주 쓰는 Type의 경우 따로 Interface화 하여 코드의 가독성을 끌어올리고자 하였습니다.
 - 상태관리를 활용하여 선택한 두 개의 제품을 비교할 수 있는 서랍기능을 만들었으며, 이로 인해 페이지가 바뀌어도 선택한 제품이 유지되어 비교할 수 있도록 구현하였습니다.
-<div class="page-break" style="page-break-before: always;"></div>
+
 ##### [몽땅연필 / 블록체인 도메인 기반 e-book 플랫폼 서비스](https://github.com/swhana/mongtang)
 _**2023. 02. ~ 2023. 04**_
 
